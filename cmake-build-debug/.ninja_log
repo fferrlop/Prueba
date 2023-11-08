@@ -1,3 +1,5 @@
 # ninja log v5
 1	553	7211483308618271	CMakeFiles/prueba_commit.dir/main.cpp.obj	9cd524c2e284911c
 556	769	7211483310722615	prueba_commit.exe	d4e4b25c81222e30
+3	459	7211488515217314	CMakeFiles/prueba_commit.dir/main.cpp.obj	9cd524c2e284911c
+461	584	7211488516413980	prueba_commit.exe	d4e4b25c81222e30
