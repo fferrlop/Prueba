@@ -1,3 +1,0 @@
-C:/Users/Francisco/CLionProjects/bucles/cmake-build-debug/CMakeFiles/bucles.dir
-C:/Users/Francisco/CLionProjects/bucles/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Francisco/CLionProjects/bucles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
